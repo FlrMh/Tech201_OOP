@@ -1,5 +1,5 @@
 # Polymorphism
-
+# parent class-class where the child class(currently created) inherits from.
 from snake import Snake
 
 class Python(Snake):
