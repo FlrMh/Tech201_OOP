@@ -1,7 +1,7 @@
 # OOP
 
 # One of the most important things going forward in terms of programming.
-# Everything is OOP is an object and objects are modeled against real-world objects.
+# Everything in OOP is an object, and objects are modeled against real-world objects.
 # We can make templates of an object that have defined attributes(variables) for that object, or things that they can do (behaviours = methods(functions)).
 
 # Classes are the templates we use to create objects.
@@ -23,7 +23,7 @@ class Dog:# creates a class; names written in snake method
 # print(Dog.bark())#Error, because we have not created an object, only the class(template).
 
 # Instantiation of a class (Making/Creating an object from a class)
-
+print(Dog.bark)
 fido = Dog()
 lassie = Dog()
 
