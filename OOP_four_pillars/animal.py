@@ -27,3 +27,5 @@ class Animal:
 # cat.eat() # this function has been abstracted.
 
 # E.g. when you drive a car, you don t need to know how the engine works, you just need how to drive. The same with abstraction. You do not need to know how a specific function, or method works, they just need to know how to use it in the code to achieve what they want to achieve.
+
+

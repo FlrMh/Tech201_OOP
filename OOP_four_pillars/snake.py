@@ -8,6 +8,7 @@ class Snake(Reptile):
     def __init__(self):
         super().__init__()
         self.forked_tongue = True
+        k
         self.cold_blooded = True
         self.venom = None # placeholders, as some snakes have venom and some don t
         self.limbs = False
